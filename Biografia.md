@@ -7,7 +7,7 @@ Software Engineering student at UNDB, certified in English proficiency WIZARD by
 - 🔭 Por enquanto estou focado em concluir meus afazeres do em minha graduação acadêmico.
 - 🌱 Aprendendo os essênciais de Back-End e SGDB.
 
-Ferramentas, Linguagens e IDE Utilizadas
+Ferramentas, Linguagens e IDE Utilizadas:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
